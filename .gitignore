@@ -35,6 +35,5 @@ public/models/character.glb
 *.tsbuildinfo
 
 # Personal assets/notes
-withnopn.pdf
 test.js
 public/models/decrypt.cjs
